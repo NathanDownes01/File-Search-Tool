@@ -1,1 +1,3 @@
 # File-Search-tool
+to search in a specific directory, pass argument /home/[username]/dir1/dir2...
+default is /home/[username]
